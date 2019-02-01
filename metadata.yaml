@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '43228'
     url: http://www.gutenberg.org/2009/agents/43228
     wikipedia: https://fi.wikipedia.org/wiki/O._A._Kallio
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brentano, Clemens
@@ -25,6 +28,8 @@ creator:
     - http://en.wikipedia.org/wiki/Clemens_Brentano
     - http://de.wikipedia.org/wiki/Clemens_Brentano
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58772#Kunnon-Kasper-ja-kaunis-Anni
 gutenberg_issued: '2019-01-26'
 gutenberg_type: Text
 identifiers:
